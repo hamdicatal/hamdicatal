@@ -1,7 +1,7 @@
 ## Hi there, I'm Hamdi 👋
 
 - 🔭 I’m currently working as a Software Developer at Innova IT Solutions
-- 🌱 I’m currently learning Microservice Architecture
+- 🌱 I’m currently learning .NET Core and Microservice Architecture
 - 💬 Ask me about anything you want
 - 📫 You can reach me from my social accounts
 
