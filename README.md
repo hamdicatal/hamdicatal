@@ -1,4 +1,4 @@
-## Hi there, I'm Hamdi 👋
+## 👋 Hi there, I'm Hamdi 
 
 - 🔭 I’m currently working as a Software Developer at Innova IT Solutions
 - 🌱 I’m currently learning Microservice Architecture
@@ -9,7 +9,7 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/hamdicatal)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/hamdicatal/)
 
-## Skills
+## 💻 Skills
 
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=.net&logoColor=white&color=4AB197)
