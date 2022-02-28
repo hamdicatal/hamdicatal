@@ -1,8 +1,12 @@
 ## Hi there, I'm Hamdi 👋
 - 🔭 I’m currently working as a Software Developer at Innova IT Solutions
 - 🌱 I’m currently learning Microservice Architecture
-- 💬 Ask me about anything you want 🙂
-- 📫 How to reach me: https://www.linkedin.com/in/hamdicatal/
+- 💬 Ask me about anything you want
+- 📫 You can reach me from my social accounts
+
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/hamdicatal)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/hamdicatal/)
+
 <!--
 **hamdicatal/hamdicatal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
